@@ -10,6 +10,7 @@ In this project, I utilized my SQL knowledge to explore and derive some interest
 
 These are 4 out of the 20 exploratory findings that I did for this project.
 
-This project was my first EDA project using SQL. It had allowed me to apply what I learned about SQL into practice. 
+This project was my first EDA project using SQL. It had allowed me to apply what I learned into practice. 
+
 My biggest takeaway from it is the importance of CTEs (Common Table Expression). Without them, I would not be able to write complex commands and gain insights into the dataset.
 
