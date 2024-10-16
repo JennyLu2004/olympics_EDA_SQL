@@ -7,6 +7,7 @@ In this project, I utilized my SQL knowledge to explore and derive some interest
 - Finding the ratio of male and female athletes participated in all Olympic games
 - Finding which year saw the highest and lowest number of countries participating in the Olympics.
 - Listing down total gold, silver and broze medals won by each country corresponding to each olympic games.
+
 These are 4 out of the 20 exploratory findings that I did for this project.
 
 This project was my first EDA project using SQL. It had allowed me to apply what I learned about SQL into practice. 
