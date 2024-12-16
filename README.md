@@ -1,4 +1,4 @@
-# olympics_EDA_SQL
+# EDA on Olympic History data using SQL 
 The dataset is from Kaggle: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results. 
 It has Historical Olympic Games data of 120 years (from 1896 to 2016) 
 
